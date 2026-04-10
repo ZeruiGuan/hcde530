@@ -9,7 +9,7 @@ responses = []
 with open(filename, newline="", encoding="utf-8") as f:
     # Read the CSV file and treat each row as a dictionary using column names as keys
     reader = csv.DictReader(f)
-    # # Save each row so we can process all responses later
+    # Save each row so we can process all responses later
     for row in reader:
         responses.append(row)
 
@@ -47,7 +47,6 @@ for row in responses:
 
     print(f"{participant:<6} {role:<22} {count:<6} {preview}")
 
-# Print summary statistics
 print()
 # Print summary statistics for all responses
 print("── Summary ─────────────────────────────────")
