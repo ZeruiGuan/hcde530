@@ -8,6 +8,7 @@ def parse_experience(value):
         return int(value)
     except ValueError:
         return None
+
 # Load the survey data from a CSV file
 filename = "week3_survey_messy.csv"
 rows = []
@@ -20,8 +21,6 @@ with open(filename, newline="", encoding="utf-8") as f:
     for row in reader:
         rows.append(row)
 
-# Count responses by role
-# Normalize role names so "ux researcher" and "UX Researcher" are counted together
 role_counts = {}
 
 for row in rows:
