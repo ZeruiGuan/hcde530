@@ -1,5 +1,12 @@
 import csv
 
+def parse_experience(value):
+    """Convert experience to int; return None if invalid."""
+    value = value.strip()
+    try:
+        return int(value)
+    except ValueError:
+        return None
 # Load the survey data from a CSV file
 filename = "week3_survey_messy.csv"
 rows = []
@@ -29,14 +36,11 @@ total_experience = 0
 valid_experience_count = 0
 
 for row in rows:
-    value = row["experience_years"].strip()
+    experience = parse_experience(row["experience_years"])
 
-    try:
-        total_experience += int(value)
+    if experience is not None:
+        total_experience += experience
         valid_experience_count += 1
-    except ValueError:
-        # Skip invalid values like "fifteen"
-        pass
 
 avg_experience = total_experience / valid_experience_count
 print(f"\nAverage years of experience: {avg_experience:.1f}")
