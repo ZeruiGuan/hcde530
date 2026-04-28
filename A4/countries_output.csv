@@ -1,0 +1,251 @@
+country_name,population,region
+Afghanistan,43844000,Asia
+Albania,2363314,Europe
+Algeria,47400000,Africa
+American Samoa,49710,Oceania
+Andorra,88406,Europe
+Angola,36170961,Africa
+Anguilla,16010,Americas
+Antarctica,1300,Antarctic
+Antigua and Barbuda,103603,Americas
+Argentina,46735004,Americas
+Armenia,3076200,Asia
+Aruba,107566,Americas
+Australia,27536874,Oceania
+Austria,9200931,Europe
+Azerbaijan,10241722,Asia
+Bahamas,398165,Americas
+Bahrain,1594654,Asia
+Bangladesh,169828911,Asia
+Barbados,267800,Americas
+Belarus,9109280,Europe
+Belgium,11825551,Europe
+Belize,417634,Americas
+Benin,13224860,Africa
+Bermuda,64055,Americas
+Bhutan,784043,Asia
+Bolivia,11365333,Americas
+Bosnia and Herzegovina,3422000,Europe
+Botswana,2359609,Africa
+Bouvet Island,0,Antarctic
+Brazil,213421037,Americas
+British Indian Ocean Territory,0,Africa
+British Virgin Islands,39471,Americas
+Brunei,455500,Asia
+Bulgaria,6437360,Europe
+Burkina Faso,24070553,Africa
+Burundi,12332788,Africa
+Cambodia,17577760,Asia
+Cameroon,29442327,Africa
+Canada,41651653,Americas
+Cape Verde,491233,Africa
+Caribbean Netherlands,31980,Americas
+Cayman Islands,84738,Americas
+Central African Republic,6470307,Africa
+Chad,19340757,Africa
+Chile,20206953,Americas
+China,1408280000,Asia
+Christmas Island,1692,Oceania
+Cocos (Keeling) Islands,593,Oceania
+Colombia,53057212,Americas
+Comoros,919901,Africa
+Cook Islands,15040,Oceania
+Costa Rica,5309625,Americas
+Croatia,3866233,Europe
+Cuba,9748007,Americas
+Curaçao,156115,Americas
+Cyprus,1442614,Europe
+Czechia,10882341,Europe
+DR Congo,112832000,Africa
+Denmark,6011488,Europe
+Djibouti,1066809,Africa
+Dominica,67408,Americas
+Dominican Republic,10771504,Americas
+Ecuador,18103660,Americas
+Egypt,107271260,Africa
+El Salvador,6029976,Americas
+Equatorial Guinea,1668768,Africa
+Eritrea,3607000,Africa
+Estonia,1369995,Europe
+Eswatini,1235549,Africa
+Ethiopia,111652998,Africa
+Falkland Islands,3662,Americas
+Faroe Islands,54885,Europe
+Fiji,900869,Oceania
+Finland,5650325,Europe
+France,66351959,Europe
+French Guiana,292354,Americas
+French Polynesia,279500,Oceania
+French Southern and Antarctic Lands,400,Antarctic
+Gabon,2469296,Africa
+Gambia,2422712,Africa
+Georgia,4000921,Asia
+Germany,83491249,Europe
+Ghana,33742380,Africa
+Gibraltar,38000,Europe
+Greece,10400720,Europe
+Greenland,56542,Americas
+Grenada,109021,Americas
+Guadeloupe,378561,Americas
+Guam,153836,Oceania
+Guatemala,18079810,Americas
+Guernsey,64781,Europe
+Guinea,14363931,Africa
+Guinea-Bissau,1781308,Africa
+Guyana,772975,Americas
+Haiti,11867032,Americas
+Heard Island and McDonald Islands,0,Antarctic
+Honduras,9892632,Americas
+Hong Kong,7527500,Asia
+Hungary,9539502,Europe
+Iceland,391810,Europe
+India,1417492000,Asia
+Indonesia,284438782,Asia
+Iran,85961000,Asia
+Iraq,46118793,Asia
+Ireland,5458600,Europe
+Isle of Man,84530,Europe
+Israel,10134800,Asia
+Italy,58927633,Europe
+Ivory Coast,31719275,Africa
+Jamaica,2825544,Americas
+Japan,123210000,Asia
+Jersey,103267,Europe
+Jordan,11734000,Asia
+Kazakhstan,20426568,Asia
+Kenya,53330978,Africa
+Kiribati,120740,Oceania
+Kosovo,1585566,Europe
+Kuwait,4881254,Asia
+Kyrgyzstan,7281800,Asia
+Laos,7647000,Asia
+Latvia,1829000,Europe
+Lebanon,5490000,Asia
+Lesotho,2116427,Africa
+Liberia,5248621,Africa
+Libya,7459000,Africa
+Liechtenstein,40900,Europe
+Lithuania,2894886,Europe
+Luxembourg,681973,Europe
+Macau,685900,Asia
+Madagascar,31727042,Africa
+Malawi,20734262,Africa
+Malaysia,34231700,Asia
+Maldives,515132,Asia
+Mali,22395489,Africa
+Malta,574250,Europe
+Marshall Islands,42418,Oceania
+Martinique,349925,Americas
+Mauritania,4927532,Africa
+Mauritius,1243741,Africa
+Mayotte,320901,Africa
+Mexico,130575786,Americas
+Micronesia,105564,Oceania
+Moldova,2749076,Europe
+Monaco,38423,Europe
+Mongolia,3544835,Asia
+Montenegro,623327,Europe
+Montserrat,4386,Americas
+Morocco,36828330,Africa
+Mozambique,34090466,Africa
+Myanmar,51316756,Asia
+Namibia,3022401,Africa
+Nauru,11680,Oceania
+Nepal,29911840,Asia
+Netherlands,18100436,Europe
+New Caledonia,264596,Oceania
+New Zealand,5324700,Oceania
+Nicaragua,6803886,Americas
+Niger,26312034,Africa
+Nigeria,223800000,Africa
+Niue,1681,Oceania
+Norfolk Island,2188,Oceania
+North Korea,25950000,Asia
+North Macedonia,1822612,Europe
+Northern Mariana Islands,47329,Oceania
+Norway,5606944,Europe
+Oman,5343630,Asia
+Pakistan,241499431,Asia
+Palau,16733,Oceania
+Palestine,5483450,Asia
+Panama,4064780,Americas
+Papua New Guinea,11781559,Oceania
+Paraguay,6109644,Americas
+Peru,34350244,Americas
+Philippines,114123600,Asia
+Pitcairn Islands,35,Oceania
+Poland,37392000,Europe
+Portugal,10749635,Europe
+Puerto Rico,3203295,Americas
+Qatar,3173024,Asia
+Republic of the Congo,6142180,Africa
+Romania,19036031,Europe
+Russia,146028325,Europe
+Rwanda,14104969,Africa
+Réunion,896175,Africa
+Saint Barthélemy,10562,Americas
+"Saint Helena, Ascension and Tristan da Cunha",5651,Africa
+Saint Kitts and Nevis,51320,Americas
+Saint Lucia,184100,Americas
+Saint Martin,31496,Americas
+Saint Pierre and Miquelon,5819,Americas
+Saint Vincent and the Grenadines,110872,Americas
+Samoa,205557,Oceania
+San Marino,34132,Europe
+Saudi Arabia,35300280,Asia
+Senegal,18593258,Africa
+Serbia,6567783,Europe
+Seychelles,122729,Africa
+Sierra Leone,9077691,Africa
+Singapore,6110200,Asia
+Sint Maarten,41349,Americas
+Slovakia,5413813,Europe
+Slovenia,2130638,Europe
+Solomon Islands,750325,Oceania
+Somalia,19655000,Africa
+South Africa,63100945,Africa
+South Georgia,0,Antarctic
+South Korea,51159889,Asia
+South Sudan,15786898,Africa
+Spain,49315949,Europe
+Sri Lanka,21763170,Asia
+Sudan,51662000,Africa
+Suriname,616500,Americas
+Svalbard and Jan Mayen,2530,Europe
+Sweden,10605098,Europe
+Switzerland,9082848,Europe
+Syria,25620000,Asia
+São Tomé and Príncipe,209607,Africa
+Taiwan,23317031,Asia
+Tajikistan,10499000,Asia
+Tanzania,68153004,Africa
+Thailand,65859640,Asia
+Timor-Leste,1391221,Asia
+Togo,8095498,Africa
+Tokelau,2608,Oceania
+Tonga,100179,Oceania
+Trinidad and Tobago,1367764,Americas
+Tunisia,11972169,Africa
+Turkey,85664944,Asia
+Turkmenistan,7057841,Asia
+Turks and Caicos Islands,50828,Americas
+Tuvalu,10643,Oceania
+Uganda,45905417,Africa
+Ukraine,32862000,Europe
+United Arab Emirates,11294243,Asia
+United Kingdom,69281437,Europe
+United States,340110988,Americas
+United States Minor Outlying Islands,0,Americas
+United States Virgin Islands,87146,Americas
+Uruguay,3499451,Americas
+Uzbekistan,37859698,Asia
+Vanuatu,321409,Oceania
+Vatican City,882,Europe
+Venezuela,28517000,Americas
+Vietnam,101343800,Asia
+Wallis and Futuna,11620,Oceania
+Western Sahara,600904,Africa
+Yemen,32684503,Asia
+Zambia,19693423,Africa
+Zimbabwe,17073087,Africa
+Åland Islands,30654,Europe
