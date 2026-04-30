@@ -8,10 +8,10 @@ I extracted the country name, population, and region fields and saved them into 
 
 This work shows how to retrieve data from an API and convert it into a usable structured format.
 
-### Reflection
+### HCD Reflection
 
-This data can be used to answer questions about how countries are distributed by region and population.
+This data helps users understand how countries are distributed by region and population, which can support basic comparisons and analysis.
 
-Before using the data, I would verify whether the dataset is complete and whether all countries are included. I would also check for missing or inconsistent values across entries.
+From an HCD perspective, the choice of fields affects what users can learn. While name, population, and region provide a clear overview, they may not give enough context for deeper understanding, which could lead to oversimplified conclusions.
 
-If the data is incomplete or interpreted incorrectly, any conclusions based on it would be unreliable even if the script runs without errors.
+I would also check that the data is complete and consistent to avoid misleading users. In the future, I would consider adding more fields or allowing users to customize the data to better meet different needs.
