@@ -8,4 +8,4 @@ The analysis gave initial answers to my three questions: when reported offenses 
 
 One important data decision was to count offense records instead of assuming every row is a unique police report. I checked this by comparing `Report Number` and `Offense ID`, which showed fewer unique report numbers than unique offense IDs. This matters because some reports include multiple offenses, so my outputs should be described as offense counts.
 
-The CSV file is not included in GitHub because it is larger than GitHub's file size limit. The dataset is available from Seattle Open Data: https://data.seattle.gov/Public-Safety/SPD-Crime-Data-2008-Present/tazs-3rd5/about_data
+The CSV file is not included in GitHub because it is larger than GitHub's file size limit,but the dataset is available from Seattle Open Data: https://data.seattle.gov/Public-Safety/SPD-Crime-Data-2008-Present/tazs-3rd5/about_data
