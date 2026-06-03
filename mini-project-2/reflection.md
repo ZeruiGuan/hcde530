@@ -1,0 +1,17 @@
+# MP2 Reflection
+
+## What did you build?
+
+I built a Jupyter notebook tool that helps student UX researchers summarize open-ended survey responses into a first-pass set of themes. The tool uses a CSV from a student transportation survey about public transit and shared e-scooter / e-bike experiences around Seattle. It extracts short-answer responses from multiple survey columns, cleans out blank responses, assigns keyword-based themes, counts how often each theme appears, and generates output files that a researcher can review. The final outputs include a theme frequency table, example responses by theme, a horizontal bar chart, and a short markdown summary report. The goal is not to replace qualitative coding, but to help a student researcher quickly see repeated concerns before writing findings or deciding where to read more closely.
+
+## What decisions did you make?
+
+I chose Cursor + Python because the core of the project is computation rather than interface design. The tool needed to process text responses, reshape survey data, count themes, and generate reusable outputs, so a notebook made more sense than a web app built in Lovable or Bolt. I also narrowed the audience around student UX researchers because student projects often use smaller, more constrained datasets. In response to the MP2a feedback, I used a real small survey dataset instead of imagined input. I also chose keyword-based categorization instead of a more complex clustering model because the dataset was small, and I wanted the theme rules to be transparent and easy for a researcher to revise. This made the tool more explainable, even if it is less sophisticated than a machine learning approach.
+
+## What would you do differently?
+
+If I continued this tool, I would improve the theme assignment logic. The current version works as a first-pass summary, but many responses are categorized as `Other / unclear` when they do not match the keyword rules. A next version could include a review step where the researcher can inspect unclear responses, add new keywords, and rerun the summary. I would also test the tool on more than one survey dataset. Right now, it is built around one transportation survey, so testing it with different open-ended survey data would help me understand whether the pipeline is reusable or too specific to this dataset. I would also consider adding a simple configuration cell where users can choose their own response columns.
+
+## What does this work demonstrate?
+
+This project demonstrates that I can build a complete computational tool for an HCD research workflow. In the notebook, I used pandas to rename messy survey columns, reshape multiple response columns into a long response table, remove blank responses, assign themes, and calculate theme frequency. I also created a visualization that makes the theme counts easier to interpret. More importantly, the project demonstrates professional judgment about the limits of automated synthesis. I kept unmatched responses visible as `Other / unclear` instead of forcing every response into a theme. This makes the tool more honest: it surfaces patterns for review, but it does not claim to produce final qualitative findings without researcher judgment. It also shows that I can connect code outputs back to a realistic research practice.
